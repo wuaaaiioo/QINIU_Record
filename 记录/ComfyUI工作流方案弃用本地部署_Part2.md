@@ -57,8 +57,10 @@ ComfyUI 是一个基于节点图的 Stable Diffusion 工作流引擎，支持以
 | 输出质量 | 中等 | 明显优于单模型 |
 
 > **部署后实测结论**：ComfyUI 工作流方式的输出质量明显优于直接部署单一模型，纹理一致性提升显著，几何完整性改善，参数调节可视化，迭代效率高。
+> ### 无工作流
 ![无工作流](https://github.com/wuaaaiioo/QINIU_Record/blob/main/%E8%AE%B0%E5%BD%95/images/noworkflow.png)
 --
+### 工作流
 ![工作流](https://github.com/wuaaaiioo/QINIU_Record/blob/main/%E8%AE%B0%E5%BD%95/images/workflow.png)
 ---
 
