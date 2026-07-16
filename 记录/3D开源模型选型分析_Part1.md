@@ -39,7 +39,7 @@
  | 输入 | 单张图片 / 文字描述 |
  | 输出 | 结构化 3D 表示（可导出网格） |
  | 优势 | 支持编辑和部件级操作 |
-  ![Hunyuan](https://github.com/wuaaaiioo/QINIU_Record/blob/main/%E8%AE%B0%E5%BD%95/images/trellis.png)
+  ![Trellis](https://github.com/wuaaaiioo/QINIU_Record/blob/main/%E8%AE%B0%E5%BD%95/images/trellis.jpg)
  ### 2.3 其他候选方案（未选择）
  
  | 方案 | 未选择原因 |
